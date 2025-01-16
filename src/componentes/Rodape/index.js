@@ -5,18 +5,18 @@ const Rodape = () => {
         <section>
             <ul>
                 <li>
-                    <a href="facebook.com" target="_blank">
-                        <img src="/Imagens/fb.png" alt="" />
+                    <a href="https://www.linkedin.com/in/paulo-hds/" target="_blank" rel="noreferrer">
+                        <img src="/Imagens/linkedin.png" alt="" />
                     </a>
                 </li>
                 <li>
-                    <a href="twitter.com" target="_blank">
-                        <img src="/Imagens/tw.png" alt="" />
+                    <a href="https://github.com/PHS-informatica" target="_blank" rel="noreferrer">
+                        <img src="/Imagens/github.png" alt="" />
                     </a>
                 </li>
                 <li>
-                    <a href="instagram.com" target="_blank">
-                        <img src="/Imagens/ig.png" alt="" />
+                    <a href="https://www.instagram.com/phsinformatica.tec" target="_blank" rel="noreferrer">
+                        <img src="/Imagens/instagram.png" alt="" />
                     </a>
                 </li>
             </ul>
@@ -26,7 +26,7 @@ const Rodape = () => {
         </section>
         <section>
             <p>
-                Desenvolvido por Alura.
+                Desenvolvido PHS-Informatica & Alura.
             </p>
         </section>
     </footer>)
